@@ -1,0 +1,26 @@
+schemaVersion: 1
+featureId: CC-1
+title: 待定功能
+summary: 初始化契約範本；需求、API、測試用例與前端入口尚待各角色補齊，未完成驗收。
+deliverables:
+  pm:
+    files:
+      - id: spec
+        label: 需求規格（待補）
+        path: pm/spec.md
+  backend:
+    files:
+      - id: api
+        label: API 介面（待補）
+        path: backend/api.md
+  qa:
+    files:
+      - id: test-cases
+        label: 測試用例（待補）
+        path: qa/test-cases.md
+  frontend:
+    files:
+      - id: entry-guide
+        label: 前端測試入口說明（待補）
+        path: frontend/entry.md
+    entries: []
